@@ -51,13 +51,6 @@ Ohmyfood/
 git clone https://github.com/kda-sparkle/Ohmyfood.git
 cd Ohmyfood
 ```
-
-### Compiler Sass vers CSS
-
-```bash
-sass sass/main.scss css/main.css
-```
-
 ## Hébergement
 
 Le site est hébergé sur **GitHub Pages** et peut être consulté ici :  
